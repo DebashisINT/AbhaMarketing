@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966580965434",
+    "project_id": "abha-marketing-50315",
+    "storage_bucket": "abha-marketing-50315.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966580965434:android:14a6f4acd86d6333dfe503",
+        "android_client_info": {
+          "package_name": "com.breezefieldabhamarketing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCchndYZPgHkCVPpVrQ7k1uZzzjxqdz1TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
